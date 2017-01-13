@@ -14,7 +14,7 @@
  
  - Chương chình **CWNP** bao gồm 4 cấp độ chứng chỉ:
   <ul>
-  <li> **Administrator**: Khảo sát, cài đặt và quản trị mạng 802.11. Chứng chỉ dành cho cấp dộ này là **CWNA**.</li>
+  <li>**Administrator**: Khảo sát, cài đặt và quản trị mạng 802.11. Chứng chỉ dành cho cấp dộ này là **CWNA**.</li>
   <li>**Security Professional**: Thiết kế và triển khai các kỹ thuật, tiến trình, phần cứng và phần mềm bảo mật mạng 802.11. Chứng chỉ dành cho cấp độ này là **CWNP**.</li>
   <li>**Integrator**: Thiết kế, quản trị, QoS, khảo sát chuyên sâu, lý thuyết sóng vô tuyến nâng cao và phân tích sự phát triển của thị trường mạng không dây. Chứng chỉ dành cho cấp độ này là **CWAP**.</li>
   <li>**Expert**: Phân tích và giải quyết sự cố trong mạng không dây sử dụng các công cụ phần mềm mới nhất. Chứng chỉ dành cho cấp độ này là **CWNE**.</li>
